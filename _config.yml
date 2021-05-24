@@ -17,10 +17,10 @@ timezone: Asia/Jakarta
 # --------------------------
 title: swtanggara                          # the main title
 
-tagline: A software craftsmanship's journey   # it will display as the sub-title
+tagline: Pragmatis-Skeptis   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A software craftsmanship's journey.
+  Pragmatis-Skeptis.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ''
