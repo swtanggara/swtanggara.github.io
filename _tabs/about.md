@@ -4,7 +4,6 @@ icon: fas fa-info
 order: 4
 ---
 
-Diharuskan produktif dan menghasilkan (*gak* selalu uang, lho...), itulah mengapa saya selalu memilih *platform* yang paling mudah dipakai dan paling banyak tutorialnya. Contohnya ya [GitHub Pages](https://pages.github.com/) ini.
 
 Contoh yang lain di antaranya: [Visual Studio](https://visualstudio.microsoft.com/vs), [vscode](https://code.visualstudio.com), dan [github.com](https://github.com).
 
