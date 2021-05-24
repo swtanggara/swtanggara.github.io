@@ -13,6 +13,6 @@ Tapi adakalanya sinar-kecil-yang-terang-di-ujung itu menuntun saya untuk hijrah 
 
 Hal terberat lain dalam mengangkat kemampuan yang upayanya memakan waktu pastinya adalah pindah dari [UMD](https://github.com/umdjs/umd) ke [ESM](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/). Tapi seperti yang selalu dibilang sama *mbah* [Wildan](https://github.com/wildanr), *"It’s worth it, men...!"* Jadi ya, malah ketagihan.
 
-Tapi sudahlah, itu semua *cuma alat*... Kini saya lebih pusing dengan yang namanya ***proses*** dan [*peopleware*](https://en.wikipedia.org/wiki/Peopleware). Dua hal ini saya yakinkan harus selesai kalau mau purnabakti saya paripurna.
+Tapi sudahlah, itu semua *cuma alat*... Kini saya lebih pusing dengan yang namanya ***proses*** dan [*peopleware*](https://en.wikipedia.org/wiki/Peopleware). Dua hal ini saya yakinkan harus selesai kalau mau masa-bakti saya paripurna.
 
 
