@@ -1,19 +1,20 @@
 # The label text of site.
 
+home: Beranda
 panel:
-  lastmod: Recent Update
-  trending_tags: Trending Tags
-  toc: Contents
+  lastmod: Pembaruan Terkini
+  trending_tags: Penanda populer
+  toc: Isi
 
 post:
-  relate_posts: Further Reading
-  share: Share
+  relate_posts: Bacaan lanjutan
+  share: Bagikan
   button:
-    next: Newer
-    previous: Older
+    next: Lebih Baru
+    previous: Lebih Lama
 
-search_hint: Search   # text show on search bar
+search_hint: Cari   # text show on search bar
 
-pin_prompt: Pinned    # pinned prompt
+pin_prompt: Disematkan    # pinned prompt
 
-read_time_unit: min   # see posts' time to read
+read_time_unit: menit   # see posts' time to read
